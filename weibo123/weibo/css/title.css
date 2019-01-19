@@ -1,0 +1,177 @@
+#title {
+    height: 50px;
+    width: 100%;
+    background-color: #FAFAFA;
+    flex-flow: row;
+    color: black;
+    position: fixed;
+    top: 36px;
+    left: 0px;
+    box-shadow:0 0 3px gray;
+    display: flex;
+    justify-content: space-between;
+
+}
+#title_f{
+    height: 50px;
+    width: 100%;
+    background-color: #FAFAFA;
+    flex-flow: row;
+    color: black;
+    position: fixed;
+    top: 36px;
+    left: 0px;
+    display: flex;
+    justify-content: space-between;
+
+}
+#title_find_down{
+    height: 50px;
+    width: 100%;
+    position: absolute;
+    background-color: #FAFAFA;
+    flex-flow: row;
+
+    top: 86px;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+}
+#title_find_go{
+    flex: 1;
+
+    position: relative;
+}
+#go{
+    font-size: 14px;
+    height:48px ;
+    width:28px;
+
+    position: absolute;
+    right: 0;
+    line-height: 50px;
+}
+#go_re{
+    font-size: 14px;
+    height:48px ;
+    width:28px;
+
+    position: absolute;
+    right: 0;
+    line-height: 50px;
+    border-bottom: 2px red solid;
+    color: red;
+}
+#title_find_hot{
+
+    flex: 1;
+    position: relative;
+
+}
+#hot{
+    font-size: 14px;
+    height:48px ;
+    width:28px;
+    position: absolute;
+    left:10px;
+
+    line-height: 50px;
+}
+#hot_re{
+    font-size: 14px;
+    height:48px ;
+    width:28px;
+    position: absolute;
+    left:10px;
+
+    line-height: 50px;
+    border-bottom: 2px red solid;
+    color: red;
+}
+#title_left{
+    flex-flow: row;
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+
+}
+#title_menu{
+    margin-left: 10px;
+    height: 50px;
+    width:25%;
+    background-image: url(../img/index/title_menu.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 25px;
+    flex: 1;
+}
+#title_all{
+    font-size: 16px;
+    flex: 1.3;
+    height: 50px;
+    width: 20%;
+    align-items:center;
+}
+#title_find{
+    font-size: 16px;
+    flex: 1.3;
+    height: 50px;
+    width: 20%;
+    align-items:center;
+}
+
+#title_more{
+    flex:2;
+    background-image: url("../img/index/lower_triang.svg");
+    background-repeat: no-repeat;
+    background-position:left;
+    background-size: 12px;
+    margin-left: 3px;
+}
+#title_find_more{
+    flex:2;
+}
+#title_right{
+    flex: 1;
+    position: relative;
+}
+#find{
+    height: 30px;
+    width: 30px;
+    background-image: url("../img/index/find.svg");
+    background-size: 28px;
+    background-position: right;
+    position: absolute;
+    right: 8%;
+    top: 17%;
+}
+#kefu{
+    height: 30px;
+    width: 30px;
+    background-image: url("../img/right/邮箱.svg");
+    background-size: 24px;
+    background-position: right;
+    background-repeat: no-repeat;
+    position: absolute;
+    right: 8%;
+    top: 17%;
+}
+
+#sixin{
+    height: 30px;
+    width: 30px;
+    background-image: url("../img/left/客服.svg");
+    background-size: 25px;
+    background-position: right;
+    background-repeat: no-repeat;
+    position: absolute;
+    right:30%;
+    top: 17%;
+}
+#find img{
+
+}
+#title_msg{
+    font-size: 16px;
+    margin-left: 2px;
+}

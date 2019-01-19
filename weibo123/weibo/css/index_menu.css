@@ -1,0 +1,58 @@
+#index_menu {
+    height: 40px;
+    width: 100%;
+    background-color: #FAFAFA;
+    flex-flow: row;
+    color: black;
+    position: fixed;
+    bottom: 0%;
+    box-shadow:0 0 3px gray;
+    display: flex;
+    justify-content: space-between;
+    z-index: 99;
+}
+#index_btn{
+    flex:1;
+    background-image: url(../img/index/index_btn.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 25px;
+
+}
+#index_btn_re{
+    flex:1;
+    background-image: url(../img/index/index_btn_reverse.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 25px;
+
+}
+
+#find_btn{
+    flex:1;
+    background-image: url(../img/center/find_btn.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 25px;
+}
+#find_btn_re{
+    flex:1;
+    background-image: url(../img/center/find_btn_reverse.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 25px;
+}
+#msg_btn{
+    flex:1;
+    background-image: url(../img/right/msg_btn.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 25px;
+}
+#msg_btn_re{
+    flex:1;
+    background-image: url(../img/right/msg_btn_reverse.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 25px;
+}

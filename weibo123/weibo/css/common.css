@@ -1,0 +1,142 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.xy-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}
+.border {
+    border: red 1px solid;
+}
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+    color: #E0E0E0;
+    font-size: 16px;
+}
+
+.blog{
+    margin-bottom: 20px;
+
+    height:auto;
+    width: 100%;
+    box-shadow: 0 0 1px 1px #E0E0E0;
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+}
+.blog_title{
+    margin-left: 5px;
+
+    width: 99%;
+    height: 60px;
+    background-color: white;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-bottom: 1px solid #E0E0E0;
+
+}
+.blog_img{
+    width: 40px;
+    height: 40px;
+
+    background-color: white;
+    border-radius: 50%;
+    background-image: url(../img/photo/headimg.png);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: 40px;
+    margin-left: 20px;
+}
+.blog_name{
+    margin-left:80px ;
+    top: 0;
+    height: 35px;
+    width: 70%;
+    display: flex;
+    position: absolute;
+    background-color:white;
+    line-height: 35px;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 微软雅黑;
+
+}
+.blog_time{
+    margin-left:80px ;
+    height: 25px;
+    width: 70%;
+    display: flex;
+    position: absolute;
+    top: 30px;
+    background-color: white;
+    line-height: 25px;
+    font-size: 6px;
+    color: #BDBDBD;
+
+
+}
+.blog_down{
+    height: 60px;
+    width: 30px;
+    position: absolute;
+    right: 5px;
+    background-image: url(../img/photo/下标.svg);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: 15px;
+}
+.blog_text{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    height:auto;
+    width: 99%;
+    background-color: white;
+    font-size:16px ;
+    line-height: 20px;
+ }
+.blog_body_img{
+    padding: 5px;
+}
+.blog_body_img img{
+    width: 100%;
+    height:auto;
+    align-items: center;
+
+}
+.blog_down_title{
+
+    height: 45px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.title_logo{
+
+    width: 25%;
+    height: 45px;
+    display: table-cell;
+    position: relative;
+    vertical-align: middle;
+    text-align: center;
+    flex: 1;
+    padding: 10px;
+    border-top: 1px solid #F0F0F0F0;
+
+}
+.title_logo img {
+
+    height: 60%;
+
+}
+
+

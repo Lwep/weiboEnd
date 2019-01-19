@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link rel="stylesheet" href="../css/common.css">
+    <link rel="stylesheet" href="../css/index_container.css   ">
+    <link rel="stylesheet" href="../css/signal.css">
+    <link rel="stylesheet" href="../css/title.css">
+    <link rel="stylesheet" href="../css/index_menu.css">
+    <link rel="stylesheet" href="../css/left.css">
+    <link rel="stylesheet" href="../css/more.css">
+    <link rel="stylesheet" href="../css/go_body.css">
+    <link rel="stylesheet" href="../css/find.css">
+    <link rel="stylesheet" href="../css/msg.css">
+</head>
+<body>
+<div id="container">
+
+
+
+</div>
+</body>
+</html>
+<script src="../js/frame/jquery.js"></script>
+
+<script>
+    $(function () {
+        // 默认加载首页
+        $("#container").load("../page/index_1.html");
+        $("#signal").load("../page/signal.html");
+        $("#title_all").load("../page/title_all.html");
+        // 默认加载首页
+
+
+
+        // 点击下端中间按钮跳转
+        $("#find_btn").click(function (){
+            $("#container").load("../page/center_1.html")
+        })
+        // 点击下端中间按钮跳转
+
+        // 点击下端右边按钮跳转
+        $("#msg_btn").click(function () {
+            $("#container").load("../page/msg_1.html")
+        })
+        // 点击下端右边按钮跳转
+
+
+        // 点击title菜单按钮侧边框出现
+        $("#title_menu").click(function () {
+            $("#left_container").slideDown();
+            $("#left_right").slideDown();
+        })
+        // 点击title菜单按钮侧边框出现
+
+        //侧边框消失
+        $("#left_right").click(function () {
+            $("#left_container").hide();
+            $("#left_right").hide();
+        })
+        //侧边框消失
+
+
+
+
+        $("#find").click(function(){
+            $("#container").css('transform','translate(-100%)');
+
+            $("#find_signal").load("../page/signal.html");
+        })
+        $("#find_back").click(function () {
+
+            $("#container").css('transform', 'translate(0)');
+        })
+    })
+
+</script>

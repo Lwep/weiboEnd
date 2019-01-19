@@ -1,0 +1,87 @@
+#signal{
+    height: 36px;
+    background-color: #EEEEEE;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    top:0;
+    color: black;
+
+    font-size: 12px;
+    z-index: 99;
+}
+
+#signal_left{
+    flex: 1;
+    height: 36px;
+    top:0;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
+#signal_center{
+    flex: 2;
+    height:30px;
+    top:0;
+}
+#signal_right{
+
+    flex: 1;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    height: 30px;
+}
+#signal_area {
+    width: 40px;
+    height: 65%;
+    display: flex;
+    align-items: flex-end;
+    margin-left: 4px;
+    flex: 1;
+}
+#signal_area div {
+
+    width: 3px;
+    margin-left: 1px;
+    border-radius: 1px;
+}
+#signal_area div:nth-child(1) {
+    height: 3px;
+}
+#signal_area div:nth-child(2) {
+    height: 6px;
+}
+#signal_area div:nth-child(3) {
+    height: 9px;
+}
+#signal_area div:nth-child(4) {
+    height: 12px;
+}
+
+.signal-ok {
+    background-color: black;
+}
+
+.signal-lose {
+    background-color: grey;
+}
+#xg {
+    margin-left: 4px;
+    height: 36px;
+    flex: 1;
+}
+#battery{
+    flex:1.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#battery_body{
+    height: 30%;
+    width:25px;
+    align-items: center;
+    background-color: black;
+    border-radius: 5px 5px 5px 5px;
+    border: white double 3px;
+}

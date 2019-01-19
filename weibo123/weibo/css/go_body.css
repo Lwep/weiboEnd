@@ -1,0 +1,241 @@
+#go_body{
+    top: 105px;
+    width: 100%;
+    height: 1000px;
+    position: relative;
+
+    display: flex;
+    background-color: #EEEEEE;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+#go_icon{
+
+    width: 100%;
+    height: 75px;
+    margin-top: 5px;
+    background-color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 1px 1px #E0E0E0;
+}
+
+.go_icon_star {
+    width: 33%;
+    height: 80px;
+    flex: 1;
+    display: table-cell;
+    position: relative;
+    vertical-align: middle;
+    text-align: center;
+
+    background-size: 10px;
+
+}
+.go_icon_star img{
+    position: relative;
+    height: 38px;
+    width: 38px;
+    top: 10px;
+
+    align-items: center;
+
+}
+.go_icon_star_text{
+    position: absolute;
+    bottom: 1px ;
+    width:100%;
+    height:26px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 30px;
+}
+
+#go_search{
+    width: 100%;
+    height: 110px;
+
+    background-color: white;
+    position: absolute;
+    top: 90px;
+    left: 0;
+    flex-direction: column;
+
+    justify-content: space-between;
+    box-shadow: 0 0 1px 1px #F5F5F5;
+    display: flex;
+
+}
+#go_search_title{
+    height:35px;
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    background-color: white;
+    border-bottom: 1px #E0E0E0 solid;
+
+}
+.go_search_title_left{
+    height:35px;
+    width: 50%;
+    flex: 1;
+    font-size: 14px;
+    margin-left: 21px;
+    line-height: 35px;
+    color: #757575;
+}
+.go_search_title_right{
+    height:35px;
+    width: 50%;
+    flex: 1;
+    font-size: 14px;
+    text-align: right;
+    line-height: 36px;
+    margin-right: 12px;
+    color: #1976D2;
+}
+#go_search_body{
+    height: 85px;
+    width: 100%;
+    display: flex;
+    padding-left: 20px;
+    padding-top: 5px;
+
+}
+#go_search_body ul{
+    width: 50%;
+    height: 37px;
+
+}
+.ul_hot{
+    color: red;
+}
+#go_search_body li{
+    list-style-type: none;
+    text-align: left;
+    line-height: 36px;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 500;
+
+}
+#go_talk{
+    width: 100%;
+    height: 110px;
+
+    background-color: white;
+    position: absolute;
+    top: 206px;
+    left: 0;
+    flex-direction: column;
+
+    justify-content: space-between;
+    box-shadow: 0 0 1px 1px #F5F5F5;
+    display: flex;
+}
+#go_talk_title{
+    height:35px;
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    background-color: white;
+    border-bottom: 1px #E0E0E0 solid;
+}
+#go_talk_body{
+    height: 85px;
+    width: 100%;
+    display: flex;
+    background-color: white;
+}
+#go_talk_body_left{
+    height: 100%;
+    width: 50%;
+    background-color:white;
+
+}
+.go_talk_body_top{
+    width: 100%;
+    height: 50%;
+    background-color:white;
+    position: relative;
+}
+.go_talk_body_bottom{
+    width: 100%;
+    height: 50%;
+    background-color:white;
+    position: relative;
+}
+.go_talk_body_text{
+
+}
+#go_talk_body_right{
+    height: 100%;
+    width: 50%;
+    background-color:white;
+
+}
+
+.go_talk_body_img{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    position: absolute;
+    top: 3px;
+    left: 20px;
+
+}
+.go_talk_body_img_img{
+    width: 30px;
+    height: 30px;
+    background-repeat:no-repeat;
+    background-position:center;
+    size: 25px;
+}
+.go_talk_body_text{
+    margin-left: 3px;
+    width: 60%;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    font-size: 12px;
+    left: 55px;
+    background-color: white;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+    top: 3px;
+}
+.go_ad{
+
+    width: 100%;
+    height: 500px;
+
+    background-color: black;
+    position: absolute;
+    top: 320px;
+    left: 0;
+    flex-direction: column;
+
+    justify-content: space-between;
+    box-shadow: 0 0 1px 1px #F5F5F5;
+    display: flex;
+}
+.go_ad_body{
+    width: 100%;
+    height: auto;
+}
+
+#go_ad_title{
+    height:35px;
+    width: 100%;
+
+    color: #757575;
+    background-color: #F5F5F5 ;
+}
+#go_ad_title a{
+    font-size: 13px;
+    line-height: 35px;
+    margin-left: 21px;
+}

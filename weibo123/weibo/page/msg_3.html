@@ -1,0 +1,159 @@
+<body>
+<div id="container">
+
+    <!--信号层开始-->
+    <div id="signal">
+
+    </div>
+    <!--信号层结束-->
+
+    <!--title层开始-->
+    <div id="title_f">
+        <div id="title_left">
+            <div id="title_menu"></div>
+            <div id="title_msg" class="xy-center" >消息提醒</div>
+            <div id="title_find_more"></div>
+        </div>
+
+        <div id="title_right">
+            <div id="kefu"></div>
+            <div id="sixin"></div>
+        </div>
+    </div>
+    <!--title结束-->
+
+    <!--find页面title更高开始-->
+    <div id="title_msg_down">
+        <div id="at_me" class="msg_id">@我</div>
+        <div id="comment_me" class="msg_id">评论</div>
+        <div id="tip_me_re" class="msg_id">赞</div>
+        <div id="msg_me"class="msg_id">私信</div>
+    </div>
+    <!--find页面title更高结束-->
+
+    <!--左拉菜单开始-->
+    <div id="left" >
+        <div id="left_container">
+
+            <div id="backimg">
+                <div id="headimg"></div>
+                <div id="nickname">取个名字</div>
+            </div>
+
+            <div id="left_text1">
+                <ul>
+                    <li>
+                        <img class ="left_img" src="../img/left/我的.svg" alt="">
+                        <a>个人主页</a>
+                    </li>
+                    <li>
+                        <img class ="left_img" src="../img/left/收藏.svg" alt="">
+                        <a>我的收藏</a>
+                    </li>
+                    <li>
+                        <img class ="left_img" src="../img/left/赞.svg" alt="">
+                        <a>我的赞</a>
+                    </li>
+                    <li>
+                        <img class ="left_img" src="../img/left/草稿箱.svg" alt="">
+                        <a>草稿箱</a>
+                    </li>
+                    <li>
+                        <img class ="left_img" src="../img/left/扫一扫%20.svg" alt="">
+                        <a>扫一扫</a>
+                    </li>
+                    <li>
+                        <img class ="left_img" src="../img/left/历史.svg" alt="">
+                        <a>浏览记录</a>
+                    </li>
+                    <li>
+                        <img class ="left_img" src="../img/left/talk.svg" style=" background-size: 2px;" alt="">
+                        <a>关注的话题</a>
+                    </li>
+                    <li>
+                        <img class ="left_img" src="../img/left/设置.svg" style=" background-size: 2px;" alt="">
+                        <a>设置</a>
+                    </li>
+                    <li>
+                        <img class ="left_img" src="../img/left/夜间模式.svg" style=" background-size: 2px;" alt="">
+                        <a>夜间模式</a>
+                    </li>
+                    <li>
+                        <img class ="left_img" src="../img/left/客服.svg" style=" background-size: 2px;" alt="">
+                        <a>客服中心</a>
+                    </li>
+                    <li>
+                        <img class ="left_img" src="../img/left/清除.svg" style=" background-size: 2px;" alt="">
+                        <a>清除缓存</a>
+                    </li>
+                    <li>
+                        <img class ="left_img" src="../img/left/礼物.svg" style=" background-size: 2px;" alt="">
+                        <a>每日福利</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div id="left_right"></div>
+    </div>
+    <!--左拉菜单结束-->
+
+    <div id="msg_body">
+
+
+
+    </div>
+
+
+    <!--下端按钮开始-->
+    <div id="index_menu">
+
+        <div id="index_btn"></div>
+        <div id="find_btn"></div>
+        <div id="msg_btn_re"></div>
+    </div>
+    <!--下端按钮结束-->
+</div>
+</body>
+<script src="../js/frame/jquery.js"></script>
+
+<script>
+    $(function () {
+
+        $("#signal").load("../page/signal.html");
+
+        $("#title_menu").click(function () {
+            $("#left_container").slideDown();
+            $("#left_right").slideDown();
+        })
+        $("#left_right").click(function () {
+            $("#left_container").hide();
+            $("#left_right").hide();
+        })
+
+        $("#index_btn").click(function () {
+            $("#container").load("../page/index_1.html");
+        })
+
+        // 点击下端中间按钮跳转
+        $("#find_btn").click(function (){
+            $("#container").load("../page/center_1.html")
+        })
+        // 点击下端中间按钮跳转
+
+        //点击title按钮跳转
+        $("#at_me").click(function () {
+            $("#container").load("../page/msg_1.html")
+        })
+        $("#comment_me").click(function () {
+            $("#container").load("../page/msg_2.html")
+        })
+        $("#tip_me").click(function () {
+            $("#container").load("../page/msg_3.html")
+        })
+        $("#msg_me").click(function () {
+            $("#container").load("../page/msg_4.html")
+        })
+        //点击title按钮跳转
+
+    })
+</script>

@@ -1,0 +1,133 @@
+
+#find_page{
+    height: 100%;
+    width:100%;
+    position: absolute;
+    right: -100%;
+
+    display: flex;
+    flex-direction: column;
+    background: #EEEEEE;
+    transition: all ease-in-out 0ms ;
+}
+
+#find_signal{
+     height: 36px;
+     width: 100%;
+     background-color: #EEEEEE;
+     display: flex;
+     flex-flow: row;
+     justify-content: space-between;
+     top:0;
+     color: black;
+     font-size: 12px;
+ }
+#find_title{
+    position: absolute;
+    top:36px;
+    display: flex;
+    height: 50px;
+    width: 100%;
+    background-color: #FAFAFA;
+    justify-content: space-between;
+    box-shadow:0 0 3px gray;
+}
+#find_back{
+    flex: 3;
+    height: 50px;
+    width: 50px;
+
+    background-image: url("../img/photo/返回.svg");
+    background-position: center;
+    background-size: 25px;
+    background-repeat: no-repeat;
+}
+#find_search{
+    flex:17;
+    background-color:#FAFAFA;
+}
+#find_search input{
+    height: 40px;
+    width: 80%;
+    font-size: 16px;
+    margin-top: 6px;
+    margin-left: 15px;
+    border:0;
+    outline: none;
+    background-color:#FAFAFA;
+}
+#find_history{
+    position: absolute;
+    top:95px;
+    width: 100%;
+    background-color: #FAFAFA;
+    display: flex;
+    flex-direction: column;
+}
+.find_history{
+    width: 100%;
+    height: 45px;
+    border-bottom: 1px #ECEFF1 solid;
+    position: relative;
+}
+.find_history_img {
+    position: absolute;
+    top:8px;
+    left:20px;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    background-image:url(../img/left/历史.svg);
+    background-position: center;
+    background-size: 20px;
+    background-repeat: no-repeat;
+}
+.find_history_text{
+    position: absolute;
+    left: 55px;
+    top:8px;
+    line-height: 30px;
+    height: 30px;
+    width: 100%;
+    font-size: 14px;
+}
+#hot_search{
+
+    position: absolute;
+    top:240px;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 0 0 1px 1px #F5F5F5;
+    display: flex;
+}
+#hot_search_title{
+    height:35px;
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    background-color: white;
+    border-bottom: 1px #E0E0E0 solid;
+}
+#hot_search_body{
+
+    width: 100%;
+    height: 85px    ;
+    display: flex;
+    padding-left: 20px;
+    padding-top: 5px;
+    background-color:hitwe ;
+}
+#hot_search_body li{
+    height: 36px;
+    list-style-type: none;
+    text-align: left;
+    line-height: 36px;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 500;
+}
+#hot_search_body ul{
+    width: 50%;
+    height: 37px;
+}

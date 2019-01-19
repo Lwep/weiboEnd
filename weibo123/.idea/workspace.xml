@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e2b6188-7d27-4661-ab87-ad9797d7fb42" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/my project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04.颜色/01.渐变色.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04.颜色/case-xiaomi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04.颜色/ss.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/css/center_title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/css/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/css/find.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/css/go_body.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/css/index_container.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/css/index_menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/css/left.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/css/more.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/css/signal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/css/title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/center/find_btn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/center/find_btn_reverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/center/talk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/center/会员.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/center/排行榜.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/index/find.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/index/index_btn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/index/index_btn_reverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/index/lower_triang.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/index/title_menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/index/up_triang.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/left/talk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/left/历史.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/left/夜间模式.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/left/客服.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/left/我的.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/left/扫一扫 .svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/left/收藏.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/left/清除.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/left/礼物.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/left/草稿箱.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/left/设置.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/left/赞.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/photo/backimg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/photo/headimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/right/msg_btn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/right/msg_btn_reverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/img/right/邮箱.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/js/frame/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/page/center.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/page/center_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/page/index_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/page/signal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-α/page/title_all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/css/center_title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/css/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/css/find.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/css/go_body.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/css/index_container.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/css/index_menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/css/left.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/css/more.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/css/signal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/css/title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/center/find_btn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/center/find_btn_reverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/center/talk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/center/会员.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/center/排行榜.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/index/find.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/index/index_btn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/index/index_btn_reverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/index/lower_triang.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/index/title_menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/index/up_triang.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/left/talk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/left/历史.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/left/夜间模式.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/left/客服.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/left/我的.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/left/扫一扫 .svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/left/收藏.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/left/清除.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/left/礼物.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/left/草稿箱.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/left/设置.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/left/赞.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/photo/backimg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/photo/headimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/photo/返回.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/right/msg_btn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/right/msg_btn_reverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/img/right/邮箱.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/js/frame/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/page/center.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/page/center_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/page/index_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/page/signal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo-β/weibo/page/title_all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/css/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/css/find.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/css/go_body.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/css/index_container.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/css/index_menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/css/left.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/css/more.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/css/msg.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/css/signal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/css/title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/center/find_btn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/center/find_btn_reverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/center/talk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/center/会员.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/center/排行榜.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/index/find.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/index/index_btn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/index/index_btn_reverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/index/lower_triang.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/index/title_menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/index/up_triang.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/left/talk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/left/历史.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/left/夜间模式.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/left/客服.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/left/我的.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/left/扫一扫 .svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/left/收藏.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/left/清除.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/left/礼物.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/left/草稿箱.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/left/设置.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/left/赞.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/photo/backimg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/photo/headimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/photo/返回.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/right/msg_btn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/right/msg_btn_reverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/img/right/邮箱.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/js/frame/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/page/center.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/page/center_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/page/index_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/page/msg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/page/msg_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/page/msg_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/page/msg_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/page/msg_4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/page/signal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/weibo_1.0/weibo/page/title_all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/css/center_title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/css/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/css/find.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/css/go_body.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/css/index_container.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/css/index_menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/css/left.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/css/more.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/css/msg.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/css/signal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/css/title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/center/find_btn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/center/find_btn_reverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/center/talk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/center/会员.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/center/排行榜.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/index/find.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/index/index_btn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/index/index_btn_reverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/index/lower_triang.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/index/title_menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/index/up_triang.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/left/talk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/left/历史.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/left/夜间模式.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/left/客服.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/left/我的.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/left/扫一扫 .svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/left/收藏.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/left/清除.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/left/礼物.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/left/草稿箱.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/left/设置.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/left/赞.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/photo/backimg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/photo/headimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/photo/返回.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/right/msg_btn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/right/msg_btn_reverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/img/right/邮箱.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/js/frame/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/page/center.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/page/msg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/page/signal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weibo/page/title_all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../周一/弹性布局.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/01case.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/02case-商品页面.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/02cass老师.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/03cass-聊天页面.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/porsher-panamera-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/porsher-panamera-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/tesla-roadster-2018-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/博客主页/博客页面.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/css/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/css/container.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/css/dynamic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/css/menus.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/css/signal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/css/title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/dicovery/小程序.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/dicovery/扫一扫.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/dicovery/搜一搜.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/dicovery/摇一摇.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/dicovery/朋友圈.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/dicovery/游戏.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/dicovery/漂流瓶.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/dicovery/看一看.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/dicovery/购物.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/dicovery/附近的人.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/material/加号.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/material/右箭头.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/material/返回.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/menu/chat-press.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/menu/chat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/menu/contact-press.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/menu/contact.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/menu/discover-press.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/menu/discover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/menu/me-press.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/menu/me.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/moments/回复区域.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/moments/评论.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/moments/赞-02.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/moments/赞.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/title-menu/发起群聊.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/title-menu/扫一扫.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/title-menu/搜索.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/title-menu/收付款.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/icon/title-menu/添加朋友.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/photo/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/photo/bootstrap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/photo/elasticsearch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/small/add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/small/audio.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/img/small/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/js/frame/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二次课/微信主页/page/index.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="98" />
+    <option name="width" value="1307" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e2b6188-7d27-4661-ab87-ad9797d7fb42" name="Default Changelist" comment="" />
+      <created>1547894679789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547894679789</updated>
+      <workItem from="1547894681039" duration="127000" />
+      <workItem from="1547894818925" duration="247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="374000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1670179" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.3264642" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
