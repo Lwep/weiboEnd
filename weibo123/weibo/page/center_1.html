@@ -26,10 +26,10 @@
     <!--find页面title更高开始-->
     <div id="title_find_down">
         <div id="title_find_go">
-            <div id="go_re">趋势</div>
+            <div id="go" class="id_go_re">趋势</div>
         </div>
         <div id="title_find_hot">
-            <div id="hot">热门</div>
+            <div id="hot" class="">热门</div>
         </div>
     </div>
     <!--find页面title更高结束-->
@@ -100,10 +100,12 @@
     </div>
     <!--左拉菜单结束-->
 
-    <div id="go_body">
+
+
+    <div id="go_body" class="">
 
         <!--三个图标开始-->
-        <div id="go_icon">
+        <div id="go_icon" class="">
             <div class="go_icon_star">
                 <img src="../img/center/超级话题.svg" alt="">
                 <div class="go_icon_star_text">超级话题</div>
@@ -113,10 +115,10 @@
                 <div class="go_icon_star_text">榜单</div>
             </div>
             <div class="go_icon_star">
-
                 <img src="../img/center/明星榜.svg" alt="">
                 <div class="go_icon_star_text">明星</div>
             </div>
+
         </div>
         <!--三个图标结束-->
 
@@ -177,6 +179,21 @@
         <!--微博广告开始-->
         <div class="go_ad">
             <div id="go_ad_title"><a>微博广告</a></div>
+
+            <div class="go_ad_body">
+                <div class="blog_body_img"><img src="../img/photo/qqq.jpg" alt=""></div>
+            </div>
+            <div class="go_ad_body">
+                <div class="blog_body_img"><img src="../img/photo/qqq.jpg" alt=""></div>
+            </div>
+
+            <div class="go_ad_body">
+                <div class="blog_body_img"><img src="../img/photo/qqq.jpg" alt=""></div>
+            </div>
+
+            <div class="go_ad_body">
+                <div class="blog_body_img"><img src="../img/photo/qqq.jpg" alt=""></div>
+            </div>
 
             <div class="go_ad_body">
                 <div class="blog_body_img"><img src="../img/photo/qqq.jpg" alt=""></div>
@@ -274,6 +291,25 @@
 
         $("#index_btn").click(function () {
             $("#container").load("../page/index_1.html");
+        })
+
+
+        // 点击趋势或热门按钮切换
+        $("#hot").click(function(){
+            $(this).addClass("id_hot_re");
+            $("#go").removeClass("id_go_re");
+        })
+
+        $("#go").click(function(){
+            $(this).addClass("id_go_re");
+            $("#hot").removeClass("id_hot_re");
+        });
+
+
+
+
+        $("#hot").click(function () {
+            $("#go_body").load("../page/center_hot");
         })
 
         // 点击下端右边按钮跳转

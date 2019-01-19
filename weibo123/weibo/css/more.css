@@ -4,10 +4,11 @@
     height: 2000px;
     width: 2000px;
 
-
+    z-index: 100;
     position: fixed;
     left:0;
     top:0;
+
 }
 #more_body{
     display: none;
@@ -20,6 +21,7 @@
     position: fixed;
     left:15%;
     top:86px;
+    z-index: 100;
 
     overflow: scroll;
 
