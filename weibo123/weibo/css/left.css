@@ -11,6 +11,8 @@
     left:0;
     top:0;
     justify-content: space-between;
+    overflow: scroll;
+    overflow-x: hidden;
     z-index: 100;
 }
 
